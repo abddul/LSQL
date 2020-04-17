@@ -1,0 +1,5 @@
+SELECT  all people who stars in movies on 2004 
+if the person star in more than one movie his name should be listed once
+the correct answer is 18013
+my query give 17965  ##what is wrog in 9.sql 
+
